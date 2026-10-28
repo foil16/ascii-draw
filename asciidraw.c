@@ -4,7 +4,7 @@
 	
 int main(void){
 	char* b = "b";
-	int max = 20;
+	int max = 30;
 	char endw[] = "END";
 	char space[] = " ";
 	char gridw[] = "GRID";
