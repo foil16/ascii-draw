@@ -1,0 +1,7 @@
+asciidraw
+a.out
+*.o
+*.dSYM/
+.DS_Store
+.vscode/
+.idea/
